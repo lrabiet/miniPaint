@@ -25,3 +25,5 @@ Harmony - http://ricardocabello.com/blog/post/689
 glfx.js - http://evanw.github.io/glfx.js/
 exif.js - https://github.com/jseidelin/exif-js
 ImageFilters.js - https://github.com/arahaya/ImageFilters.js
+
+Fork from viliusle/miniPaint
